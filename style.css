@@ -1,5 +1,14 @@
     body { 
         color:burlywood;
-        background: blueviolet;
-        
+        background: blueviolet; 
+
+    
     }
+
+    header{
+
+        bonder: solid 2px burlywood;
+        
+
+
+  }
